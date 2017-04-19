@@ -14628,18 +14628,10 @@ function(e, t, n) {
                     className: "iconfont icon-github"
                 }), "github:"), u.
             default.createElement("a", {
-                    href: "https://github.com"
+                    href: "https://github.com/148302340"
                 },
-                "https://github.com/xiaohuazai")), u.
-            default.createElement("dd", null, u.
-            default.createElement("span", null, u.
-            default.createElement("i", {
-                    className: "iconfont icon-markdown"
-                }), "Markdown笔记:"), u.
-            default.createElement("a", {
-                    href: "https://xiaohuazai.github.io/"
-                },
-                "https://xiaohuazai.github.io/")), u.
+                "https://github.com/148302340")), u.
+            
             default.createElement("dd", null, u.
             default.createElement("a", {
                     href: ""
